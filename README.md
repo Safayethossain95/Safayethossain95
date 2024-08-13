@@ -10,11 +10,4 @@ and responsive web applications.
 
 ## My Socials
 
-<div style="display: flex; gap: 10px;">
-  <span>
-    [![facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/Safayet956)
-  </span>
-  <span>
-    [![linkedin](https://img.shields.io/badge/LinkedIn-yellow)](https://www.linkedin.com/in/safayethossain956/)
-  </span>
-</div>
+| [![facebook](https://img.shields.io/badge/Facebook-blue)](https://www.facebook.com/Safayet956) | &nbsp;&nbsp;&nbsp; | [![linkedin](https://img.shields.io/badge/LinkedIn-yellow)](https://www.linkedin.com/in/safayethossain956/) |
