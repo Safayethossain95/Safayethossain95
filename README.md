@@ -5,7 +5,7 @@ Hi!
 A Computer Science Graduate 👨🏽‍🎓 and a passionate web developer specializing in React JS.🚀
 
 With over 2 years of
-experience in this technology, I\'ve honed my skills in creating dynamic
+experience in this technology, I\'ve perfected my skills in creating dynamic
 and responsive web applications.
 
 ## My Socials
