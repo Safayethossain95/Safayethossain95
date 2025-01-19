@@ -154,7 +154,7 @@
 
   
 
-<h2  align="left">🖥️ Personal Projects</h2>
+<h2  align="left">🖥️ Company Projects</h2>
 
   
 
